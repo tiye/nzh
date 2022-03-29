@@ -1,6 +1,6 @@
 {
-  "name": "nzh",
-  "version": "1.0.8",
+  "name": "@tiye/nzh",
+  "version": "0.0.1-a2",
   "description": "数字转中文,大写,金额",
   "homepage": "http://cnwhy.github.io/nzh",
   "main": "nzh.js",
@@ -8,9 +8,9 @@
   "files": [
     "src/*",
     "dist/*",
-    "nzh.js",
-    "cn.js",
-    "hk.js",
+    "nzh.mjs",
+    "cn.mjs",
+    "hk.mjs",
     "nzh.d.ts"
   ],
   "scripts": {
